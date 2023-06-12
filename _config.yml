@@ -1,13 +1,13 @@
 title: tmcq
 author: tmcq
 description: Just another jekyll website
-url: https://tmcq.io
+url: https://tomstammers.co.uk
 timezone: Europe/London
 
 links:
-  github: https://github.com/thomasmcquaidee
-  linkedin: https://www.linkedin.com/in/thomasmcquaid
-  instagram: https://www.instagram.com/thomasmcquaidee
+  github: https://github.com/t-stammers
+  linkedin: https://www.linkedin.com/in/thomasstammers
+  instagram: https://www.instagram.com/tom.stammers_producing
   jekyll: https://jekyllrb.com
 
 collections:
