@@ -1,7 +1,13 @@
 source 'https://rubygems.org'
 
-gem "jekyll", "~> 4.3.2" # installed by `gem jekyll`
-# gem "webrick"        # required when using Ruby >= 3 and Jekyll <= 4.2.2
+group :jekyll_plugins do
+    gem 'github-pages'
+    gem 'jekyll-seo-tag'
+    gem 'jekyll-gist'
+    gem 'jekyll-feed'
+    gem 'jemoji'
+    gem "jekyll-paginate-v2", "~> 2.0"
+    gem "html-proofer"
+end
 
-gem "just-the-docs", "0.5.2" # pinned to the current release
-# gem "just-the-docs"        # always download the latest release
+gem "webrick", "~> 1.7"
