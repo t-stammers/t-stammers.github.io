@@ -1,22 +1,6 @@
-# Setup
-title:               Tom Stammers
-tagline:             'Sound'
-description:         'This is a test of a website'
-url:                 http://t-stammers.github.io
-baseurl:             ''
-paginate:            5
-permalink:           pretty
-
-# About/contact
-author:
-  name:              Tom Stammers
-  url:               https://tomstammers.co.uk
-  email:             tomstammers16@gmail.com
-
-# Gems
-plugins:
-  - jekyll-paginate
-
-# Custom vars
-version:             1.1.0
-google_analytics_id: UA-XXXX-Y
+title: Minimal theme
+logo: /assets/img/logo.png
+description: Minimal is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-minimal
