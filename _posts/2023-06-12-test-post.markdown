@@ -6,11 +6,3 @@ tags:  audio
 ---
 
 this is a test post.
-
-<div class="pt-5">
-<img alt="microphone" src="../assets/posts/i-hate-mic-stands/stand2.jpeg" class="d-block mx-auto rounded" width="60%">
-</div>
-
-<div class="pt-5">
-<img alt="pencil microphone" src="../assets/posts/i-hate-mic-stands/stand3.jpeg" class="d-block mx-auto rounded" width="60%">
-</div>
