@@ -8,9 +8,11 @@ permalink: /
 
 ---
 
-hi! i'm thomas mcquaid, an audio engineer and music producer based in london. i've decided that i wanted to create more things as part of my new years resolution for 2023, so up first is this little website!
+hi!
 
-my professional site can be found at [thomasmcquaid.com](https://thomasmcquaid.com). it's a little bit more modern than here.
+my name is Tom Stammers and this is a project website for my sound engineering and production work. 
+
+my other site can be found at [tomstammers.co.uk](https://tomstammers.co.uk). it's pretty empty.
 
 {% include external_links.html %}
 
