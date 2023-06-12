@@ -12,12 +12,19 @@ their drum setup is what's most interesting to me. snare, hihat, splash and an s
 introducing.....
 
 y
+
 o
+
 u
+
 r
 
+
+
 m
+
 u
+
 m
 
 
