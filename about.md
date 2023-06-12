@@ -4,7 +4,7 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This is a quick ytest of a Jekyl theme for me.
+  Hey there! This is a quick test of a Jekyl theme for my website.
 </p>
 
 In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
