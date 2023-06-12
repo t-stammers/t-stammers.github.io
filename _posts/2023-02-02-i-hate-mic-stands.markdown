@@ -11,19 +11,15 @@ their drum setup is what's most interesting to me. snare, hihat, splash and an s
 
 introducing.....
 
-<div class="pt-5">
-<img alt="mic stand" src="../assets/posts/i-hate-mic-stands/stand1.jpeg" class="d-block mx-auto rounded" width="60%">
-</div>
+y
+o
+u
+r
 
-this abomination.
+m
+u
+m
 
 
 oktava mk-012 pencil condenser as an overhead, and this super cool old AKG D190E on snare. the AKG is really dark sounding, should sound awesome on snare drum, and the mk-012 will work great as a mono overhead for the cymbals, and best of all, it all fits on a single mic stand! all it took was some electrical tape and creative use of mic clips and thread adapters!
 
-<div class="pt-5">
-<img alt="microphone" src="../assets/posts/i-hate-mic-stands/stand2.jpeg" class="d-block mx-auto rounded" width="60%">
-</div>
-
-<div class="pt-5">
-<img alt="pencil microphone" src="../assets/posts/i-hate-mic-stands/stand3.jpeg" class="d-block mx-auto rounded" width="60%">
-</div>
