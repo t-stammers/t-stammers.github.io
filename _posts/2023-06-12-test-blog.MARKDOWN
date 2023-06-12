@@ -5,3 +5,9 @@ categories:
 tags:
   - test
 ---
+
+this is a test blog post to see how it reacts on the new website. 
+
+hoping that this works nicely. 
+
+i need to go through and change everyhting to make the website more customised to me.
