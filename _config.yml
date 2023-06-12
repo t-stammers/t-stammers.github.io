@@ -1,6 +1,6 @@
 # main text of home
 title: Tom Stammers
-bio: 
+bio: Sound engineer and producer from Herts
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -21,7 +21,7 @@ resume-external: true
 resume-url: https://google.com/?q=my+resume
 
 url: https://sergiokopplin.github.io/indigo
-# your url: https://t-stammers.github.io
+your url: https://t-stammers.github.io
 
 permalink: /:title/
 
@@ -48,13 +48,7 @@ authors:
     #external-image: false
     #picture: assets/images/profile.jpg
     #twitter: johndoe
-  jamesfoster:
-    name: James Foster
-    bio: A Man who develops software with coffee
-    #external-image: false
-    #picture: assets/images/james.jpg
-    #twitter: jamesfoster
-
+ 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
@@ -76,19 +70,19 @@ about: true
 blog: true
 
 # do you want to show the "read time" of the posts?
-# read-time: true
+read-time: false
 
 # do you want to show the "tags" inside the posts?
 show-tags: true
 
 # related posts inside a post?
-# related: true
+related: false
 
 # Display links for next and previous posts for the specified categories
 post-advance-links: [blog]
 
 # show author block at the end of a post ?
-show-author: true
+show-author: false
 
 # do you want some animations?
 animation: true
